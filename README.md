@@ -7,3 +7,5 @@ Description: A deep recurrent neural network (RNN) based classifier trained usin
 Sentiment_Analysis_using_RNN.ipynb : The python code in form of a Jupyter Notebook.
 
 Sentiment_Analysis_using_RNN.html : HTML version of the Jupyter Notebook for easily viewing the code.
+
+pca_words.png : 2-D visualization of the embedding matrix using PCA
