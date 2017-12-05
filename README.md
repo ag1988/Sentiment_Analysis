@@ -10,13 +10,13 @@ Sentiment_Analysis_using_RNN.html : HTML version of the Jupyter Notebook for eas
 
 pca_words.png : 2-D visualization of the embedding matrix using PCA
 
-Sample Outputs : 
+#### Sample Outputs : 
 
 1) input: Although it wasn't exactly my thing, I kinda liked it.
 
-scores:
--ve 0.284856
-+ve 0.715144
+scores: </br>
+-ve 0.284856 </br>
++ve 0.715144 </br>
 
 sentiment: positive
 
@@ -30,9 +30,9 @@ totally embarrassing performance, he was at least tolerable. This is a stupid
 film in my eyes, boring at times, not entertaining, just a film that i wouldn't 
 recommend to anybody.
 
-scores:
--ve 0.981433
-+ve 0.0185666
+scores: </br>
+-ve 0.981433 </br>
++ve 0.0185666 </br>
 
 sentiment: negative
 
@@ -56,9 +56,9 @@ killer. In fact, just his stare steals a few scenes of this movie. This is
 top-notch acting that must be seen to believe. There will never be a 
 horror movie that quite matches this one. R.I.P. Stanley.
 
-scores:
--ve 0.0127282
-+ve 0.987272
+scores: </br>
+-ve 0.0127282 </br>
++ve 0.987272 </br>
 
 sentiment: positive
 
@@ -84,8 +84,8 @@ of fun is seeing Jerry Springer sing a country song about his own show or guys
 hooking up with transvestites...well...JUST WATCH THE SHOW INSTEAD! ... at least 
 steve was smart enough to stay out of this flick. 
 
-scores:
--ve 0.984618
-+ve 0.0153823
+scores: </br>
+-ve 0.984618 </br>
++ve 0.0153823 </br>
 
 sentiment: negative
